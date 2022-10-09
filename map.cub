@@ -1,0 +1,23 @@
+
+R      600    600
+  NO ./textures/eagle.xpm 
+     SO   ./textures/bluestone.xpm
+ EA ./textures/greystone.xpm
+
+ WE ./textures/redbrick.xpm
+    F  55 ,  6  ,   75
+C  234 ,  150 , 234
+ S  ./textures/barrel.xpm     
+
+1 1 1 1 1 1
+11111111111
+10001000001
+1001 100001
+100010W0001
+100000000001
+12000000001
+12000000001
+12000000001
+10000000001
+11111111111
+1 1 1 1 1 1
